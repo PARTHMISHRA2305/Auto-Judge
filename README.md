@@ -141,7 +141,7 @@ Runs entirely on local machine.
 
 ## 🎥 Demo Video
 
-👉 **[https://www.youtube.com/watch?v=vmTYcQcxZWg](https://www.youtube.com/watch?v=vmTYcQcxZWg)**
+👉 **[https://www.youtube.com/watch?v=vmTYcQcxZWg](https://www.youtube.com/watch?v=sDoskcUG9q4)**
 
 ---
 
